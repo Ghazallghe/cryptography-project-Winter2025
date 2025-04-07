@@ -1,0 +1,6 @@
+__pycache__/
+CERT/
+CSR/
+CA/ca_private_key_cert_001.pem
+CA/ca_public_key_cert_001.pem
+client/client_private_key.pem
